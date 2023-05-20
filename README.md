@@ -1,4 +1,4 @@
 # Larson-Scanner
 Electrical Task @RoboVITics
-[Tinkercad Circuit](https://www.tinkercad.com/things/jrCTohjRmKw)
+[![](https://img.shields.io/badge/Tinkercad-Circuit-green)](https://www.tinkercad.com/things/jrCTohjRmKw)
 
